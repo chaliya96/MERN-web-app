@@ -1,8 +1,13 @@
 # MERN-web-app
-Login application created using MERN  
+<h2>Login application created using MERN  </h2>h4
 
-Setting up the project 
 
-npm install && npm run client-install
+<h4> Following technologies have beed used </h4>
+React for front-end <br>
+Node and Express for back-end <br>
+Redux for state management <br>
 
-npm run site
+<h4>Setting up the project </h4> 
+
+npm install && npm run client-install<br>
+npm run site<br>
