@@ -1,5 +1,5 @@
 # MERN-web-app
-<h2>Login application created using MERN  </h2>h4
+<h2>Login application created using MERN  </h2>
 
 
 <h4> Following technologies have beed used </h4>
